@@ -1,6 +1,6 @@
 # AI Career Copilot
 
-> **Status: Work in progress / paused.** This project is not feature-complete or production-ready. Core architecture, agent pipeline, and UI scaffolding are in place, but several pieces are unfinished or untested end-to-end. Sharing as-is to show the approach and design decisions.
+
 
 A multi-agent AI platform for job search automation, ATS optimization, and interview preparation. Built with LangGraph, Ollama (local LLMs), Qdrant, FastAPI, and Next.js.
 
